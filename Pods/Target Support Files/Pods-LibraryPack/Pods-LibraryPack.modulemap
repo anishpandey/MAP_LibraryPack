@@ -1,0 +1,6 @@
+framework module Pods_LibraryPack {
+  umbrella header "Pods-LibraryPack-umbrella.h"
+
+  export *
+  module * { export * }
+}
